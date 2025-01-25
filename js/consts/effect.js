@@ -5,8 +5,8 @@ const baseEffect = {
 
     cardRChance: 1e-3,
     cardSRChance: 0.99999e-5,
-    cardSSRChance: 0.99999e-6,
-    cardURChance: 0.99999e-7,
+    cardSSRChance: 0.99999e-5,
+    cardURChance: 0.99999e-6,
 
     energyCap: 10,
     
